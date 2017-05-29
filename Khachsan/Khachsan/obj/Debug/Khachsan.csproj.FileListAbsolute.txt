@@ -1,0 +1,41 @@
+c:\users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\bin\Debug\Khachsan.exe.config
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Chucvu.resources
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.frm_phieudangki.resources
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Nhanvien.resources
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Phong.resources
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Trangchu.resources
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\bin\Debug\Khachsan.exe
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\bin\Debug\Khachsan.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.exe
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Phieudichvu.resources
+C:\Users\dell\documents\visual studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Loaiphong.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Hoadon.resources
+D:\Khachsan\Khachsan\Khachsan\bin\Debug\Khachsan.exe.config
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.exe
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.pdb
+D:\Khachsan\Khachsan\Khachsan\bin\Debug\Khachsan.exe
+D:\Khachsan\Khachsan\Khachsan\bin\Debug\Khachsan.pdb
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.csprojResolveAssemblyReference.cache
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Chucvu.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Hoadon.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Loaiphong.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Nhanvien.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Trangchu.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.Properties.Resources.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.csproj.GenerateResource.Cache
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Khachhang.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.Phieudangki.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Chitietsudungdichvu.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Chitietkhachhang.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Thaydoi.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Huongdan.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Chitietsudungthietbi.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Thietbi.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Dangnhap.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Loaithietbi.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Dichvu.resources
+D:\Khachsan\Khachsan\Khachsan\obj\Debug\Khachsan.GUI.Dangki.resources
